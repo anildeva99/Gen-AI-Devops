@@ -1,0 +1,9 @@
+# Mistral official Python SDK
+mistralai>=1.2.0
+
+# LangChain Core for prompts and runnables
+langchain-core>=0.2.0
+
+# HTTP requests (dependency for mistralai)
+requests>=2.25.0,<3.0.0
+
